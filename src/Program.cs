@@ -5,7 +5,7 @@ namespace taxcalculator
     static class Taxcalculator
     {
         /*
-        * growtopia tax calculator || shibe.lol/taxcalculator
+        * growtopia tax calculator || taxcalculator.shibe.lol
         * hello! welcome to this shitty spaghetti code i wrote in like 15 minutes :D
         * i'm genuinely suprised it even works
         * this mf supports decimals too, which took me the most time to figure out (thanks stackoverflow)
@@ -15,8 +15,8 @@ namespace taxcalculator
         
         public static void Main(string[] args) {
             Console.Clear();
-            Console.Title = "growtopia tax calculator || shibe.lol/taxcalculator";
-            Console.WriteLine("growtopia tax calculator || shibe.lol/taxcalculator");
+            Console.Title = "growtopia tax calculator || taxcalculator.shibe.lol";
+            Console.WriteLine("growtopia tax calculator || taxcalculator.shibe.lol");
             System.Threading.Thread.Sleep(3000);
             Menu();
         }
