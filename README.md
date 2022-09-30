@@ -1,5 +1,5 @@
 # 🍉growtopia tax calculator 🍉
-features:
-it supports decimals </div>
-it even has the rounding </div>
+features:<br />
+it supports decimals<br />
+it even has the rounding<br />
 very cool
